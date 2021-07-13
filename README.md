@@ -22,7 +22,7 @@
 
 ## About The Project
 
-- [Netlify]()
+- [Netlify](https://glozzom-bootstrap-app.netlify.app/)
 
 A big project where I applied all of what I learned about Bootstrap, I used almost all the bootstrap classes. It has been an enjoyable project for me. I also used some javascript.
 
@@ -50,4 +50,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Mustafa Kadan - [@mtevfik41](https://twitter.com/mtevfik41) - mtevfik41@gmail.com
 
-Project Link - [Netlify]()
+Project Link - [Netlify](https://glozzom-bootstrap-app.netlify.app/)
